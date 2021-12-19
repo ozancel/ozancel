@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ozancel
-- 👀 I’m interested in blockchain, AI, ML, programming, mobile probrammind, web programming
+- 👀 I’m interested in blockchain, AI, ML, programming, mobile probramming, web programming
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on developing programs
 - 📫 How to reach me ozancex@gmail.com
